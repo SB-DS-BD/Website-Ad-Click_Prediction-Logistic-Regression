@@ -1,0 +1,2 @@
+# Website-Ad-Click_Prediction-Logistic-Regression
+For this project, we have received various months of data in the year 2020. It is already being provided the clicked and non-clicked visit_id. Here, the goal is to Predict who is likely going to click on the Advertisement so it can contribute to more revenue generation to the organization. Considering this objective of the project, we are running a Logistic Regression on Clicked (Y). The target is to analyze the influence of several independent factors that affect dependent variable Y.
